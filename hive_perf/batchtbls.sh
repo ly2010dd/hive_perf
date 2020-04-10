@@ -1,7 +1,7 @@
 #!/bin/sh
 
-hive_server="211.159.164.225"
-thrift_port="7001"
+hive_server="yourip"
+thrift_port="yourport"
 action=$1
 home_dir=/home/hadoop/tmp/test_hive_perf
 
